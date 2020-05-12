@@ -3,13 +3,13 @@
 	{
 	"LOGBOOK" : "Logbook",
 	"LOGBOOK_CATEGORY_ITEMANDEQUIPMENT" : "Stuff",
-	"LOGBOOK_CATEGORY_ITEM" : "Things",
-	"LOGBOOK_CATEGORY_EQUIPMENT" : "Tools",
+	"LOGBOOK_CATEGORY_ITEM" : "Item",
+	"LOGBOOK_CATEGORY_EQUIPMENT" : "Equipment",
 	"LOGBOOK_CATEGORY_ACHIEVEMENTS" : "Tryhard Goals",
 
-	"LOGBOOK_CATEGORY_MONSTER" : "Entities",
-	"LOGBOOK_CATEGORY_STAGE" : "Locations",
-	"LOGBOOK_CATEGORY_SURVIVOR" : "Characters",
+	"LOGBOOK_CATEGORY_MONSTER" : "Pokemon",
+	"LOGBOOK_CATEGORY_STAGE" : "Location",
+	"LOGBOOK_CATEGORY_SURVIVOR" : "Waifu",
 	"LOGBOOK_CATEGORY_FRAGMENT" : "Fragments",
 
 	"LOGBOOK_UNLOCK_ITEM_LOG" : "Find this item in the world to unlock this log entry.",

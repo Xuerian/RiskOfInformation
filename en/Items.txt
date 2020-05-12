@@ -6,8 +6,8 @@
 	"EQUIPMENT_SWAP_CONTEXT" : "Swap for {0}",
 
 	"ITEM_CLOVER_NAME": "Lucky Clover",
-	"ITEM_CLOVER_DESC": "Most random effects will be re-rolled <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> time(s) to check for a <style=cIsHealing>favorable outcome</style>. <i><color=#FF7F7F>Does not</color> affect chest spawns, chest drops, shrine outcomes, or Tougher Times' block chance.<\/i>",
-	"ITEM_CLOVER_PICKUP": "Most random effects will be re-rolled <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> time(s) to check for a <style=cIsHealing>favorable outcome</style>. <i><color=#FF7F7F>Does not</color> affect chest spawns, chest drops, shrine outcomes, or Tougher Times' block chance.<\/i>",
+	"ITEM_CLOVER_DESC": "Most random effects will be re-rolled <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> time(s) to check for a <style=cIsHealing>favorable outcome</style>. <i><color=#FF7F7F>Does not</color> affect chest spawns, chest drops, shrine outcomes, or Tougher Times' block chance.<\/i>", 
+	"ITEM_CLOVER_PICKUP": "Most random effects will be re-rolled <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> time(s) to check for a <style=cIsHealing>favorable outcome</style>. <i><color=#FF7F7F>Does not</color> affect chest spawns, chest drops, shrine outcomes, or Tougher Times' block chance.<\/i>", 
 
 	"ITEM_SYRINGE_NAME": "Syringe",
 	"ITEM_SYRINGE_DESC": "Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>15% <style=cStack>(+15% per stack)</style></style>.",
@@ -15,66 +15,66 @@
 	"ITEM_SYRINGE_LORE" : "\"I ain't much for drugs... but hell, when fortune is knockin', ya gotta greet that door with a smile and a nod. Salud!\"\r\n\r\n-Signal echoes, UES Contact Light\r\n",
 
 	"ITEM_BEAR_NAME": "Teddy Bear",
-	"ITEM_BEAR_DESC": "Gain a <style=cIsUtility>chance</style> to <style=cIsHealing>block incoming damage</style> <style=cStack>(chance stacks hyperbolically)</style>. <i>Unaffected by luck.<\/i>",
-	"ITEM_BEAR_PICKUP": "Gain a <style=cIsUtility>chance</style> to <style=cIsHealing>block incoming damage</style> <style=cStack>(chance stacks hyperbolically)</style>. <i>Unaffected by luck.<\/i>",
+	"ITEM_BEAR_DESC": "Gain a <style=cIsUtility>chance</style> to <style=cIsHealing>block incoming damage</style> <style=cStack>(chance stacks hyperbolically)</style>. <i>Unaffected by luck.<\/i>", 
+	"ITEM_BEAR_PICKUP": "Gain a <style=cIsUtility>chance</style> to <style=cIsHealing>block incoming damage</style> <style=cStack>(chance stacks hyperbolically)</style>. <i>Unaffected by luck.<\/i>", 
 	"ITEM_BEAR_LORE" : "<style=cMono>\n//--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//</style>\n\n\"Why\'d you sign up?\"\n\nWyatt\'s voice was bored. The mission to the Contact Light\'s last known location was taking longer than he expected.\n\nMalik was on the floor, cleaning her rifle. \"To get paid, mostly.\"\n\n\"And that\'s it?\"\n\nShe grunted in affirmation. She continued to wipe down the weapon.\n\n\"I\'m here to find something.\" He continued. \"I shipped it a few years back, but I don\'t think it made it before the train went down. I\'m guessing it\'s still in the Contact Light. So I\'m gonna get it back.\"\n\nShe began to tighten the last remaining bolts. Her routine near completion, she moved her gaze to Wyatt. \"Seriously?\"\n\n\"Yep!\"\n\nMalik raised her brow. \"There were over 7 million security chests in the Contact Light. The chance of you finding a specific one is impossible.\" She began to unfold her legs as she propped her rifle in the corner. \"And according to the distress beacon, the Contact Light was destroyed in orbit. Your shipment is probably floating around in space. It\'s all gone, Wyatt.\"\n\nHe grinned. \"I think I\'m gonna find it.\"\n\n\"You\'re terrible.\"\n",
 	
 	"ITEM_BEHEMOTH_NAME": "Exploder",
-	"ITEM_BEHEMOTH_DESC": "All of your attacks <style=cIsDamage>explode</style> in a <style=cIsUtility>4m</style> <style=cStack>(+1.5m per stack)</style> radius for an extra <style=cIsDamage>60%</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 0</color> to nearby enemies.",
-	"ITEM_BEHEMOTH_PICKUP": "All of your attacks <style=cIsDamage>explode</style> in a <style=cIsUtility>4m</style> <style=cStack>(+1.5m per stack)</style> radius for an extra <style=cIsDamage>60%</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 0</color> to nearby enemies.",
+	"ITEM_BEHEMOTH_DESC": "All of your attacks <style=cIsDamage>explode</style> in a <style=cIsUtility>4m</style> <style=cStack>(+1.5m per stack)</style> radius for an extra <style=cIsDamage>60%</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 0</color> to nearby enemies.", 
+	"ITEM_BEHEMOTH_PICKUP": "All of your attacks <style=cIsDamage>explode</style> in a <style=cIsUtility>4m</style> <style=cStack>(+1.5m per stack)</style> radius for an extra <style=cIsDamage>60%</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 0</color> to nearby enemies.", 
 
 	"ITEM_MISSILE_NAME": "Attack Missile",
-	"ITEM_MISSILE_DESC": "<style=cIsUtility>10%</style> chance on hit to fire a <style=cIsDamage>missile</style> that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 1</color>.",
-	"ITEM_MISSILE_PICKUP": "<style=cIsUtility>10%</style> chance on hit to fire a <style=cIsDamage>missile</style> that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 1</color>.",
+	"ITEM_MISSILE_DESC": "<style=cIsUtility>10%</style> chance on hit to fire a <style=cIsDamage>missile</style> that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 1</color>.", 
+	"ITEM_MISSILE_PICKUP": "<style=cIsUtility>10%</style> chance on hit to fire a <style=cIsDamage>missile</style> that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 1</color>.", 
 
-	"ITEM_EXPLODEONDEATH_NAME": "GAS GAS GAS but better",
-	"ITEM_EXPLODEONDEATH_DESC": "Killed enemies erupt into a <style=cIsDamage>lava pillar</style> in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius for <style=cIsDamage>350%</style> <style=cStack>(+280% per stack)</style> base damage with a <color=#D47FFF>Proc Coefficient of 1</color>.",
-	"ITEM_EXPLODEONDEATH_PICKUP": "Killed enemies erupt into a <style=cIsDamage>lava pillar</style> in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius for <style=cIsDamage>350%</style> <style=cStack>(+280% per stack)</style> base damage with a <color=#D47FFF>Proc Coefficient of 1</color>.",
+	"ITEM_EXPLODEONDEATH_NAME": "GAS GAS GAS, But Better",
+	"ITEM_EXPLODEONDEATH_DESC": "Killed enemies erupt into a <style=cIsDamage>lava pillar</style> in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius for <style=cIsDamage>350%</style> <style=cStack>(+280% per stack)</style> base damage with a <color=#D47FFF>Proc Coefficient of 1</color>.", 
+	"ITEM_EXPLODEONDEATH_PICKUP": "Killed enemies erupt into a <style=cIsDamage>lava pillar</style> in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius for <style=cIsDamage>350%</style> <style=cStack>(+280% per stack)</style> base damage with a <color=#D47FFF>Proc Coefficient of 1</color>.", 
 
 	"ITEM_DAGGER_NAME": "Homing Dagger",
-	"ITEM_DAGGER_DESC": "Killing an enemy fires out <style=cIsDamage>3 homing daggers</style> that deal <style=cIsDamage>150%</style> <style=cStack>(+150% per stack)</style> base damage with a <color=#D47FFF>Proc Coefficient of 1</color>.",
-	"ITEM_DAGGER_PICKUP": "Killing an enemy fires out <style=cIsDamage>3 homing daggers</style> that deal <style=cIsDamage>150%</style> <style=cStack>(+150% per stack)</style> base damage with a <color=#D47FFF>Proc Coefficient of 1</color>.",
+	"ITEM_DAGGER_DESC": "Killing an enemy fires out <style=cIsDamage>3 homing daggers</style> that deal <style=cIsDamage>150%</style> <style=cStack>(+150% per stack)</style> base damage with a <color=#D47FFF>Proc Coefficient of 1</color>.", 
+	"ITEM_DAGGER_PICKUP": "Killing an enemy fires out <style=cIsDamage>3 homing daggers</style> that deal <style=cIsDamage>150%</style> <style=cStack>(+150% per stack)</style> base damage with a <color=#D47FFF>Proc Coefficient of 1</color>.", 
 	"ITEM_DAGGER_LORE": "The smell of sulfur fills the air.\r\n\r\n\"Oh god, they're so close. They have Hitchcock. Oh god.\"\r\n\r\n\"Grab the - the dagger. From my backpack. Quick.\"\r\n\r\n\"I-I don't... I got it. What the hell? This isn't gonna work, Marion. What the hell am I supposed to do with this against those...? They blew him into pieces - oh god.\"\r\n\r\n\"You have to... you have to kill me - ah! Kill me. Kill me with it.\"\r\n\r\n\"What? What the hell?\"\r\n\r\n\"Yeah - it's the only way. Please.\"\r\n\r\n\"What are you saying? Stop!\"\r\n\r\n\"It's a magic dagger. It'll save us. She will save us. But you have to kill me with it.\"\r\n\r\n\"Please don't... please don't make me. Oh god.\"\r\n\r\n\"Y-you have to. I've seen how this works. It's the only way - they're coming so close. You have to use it on me. Kill me.\"\r\n\r\n\"I'm so sorry Marion. I'm so so sorry. I don't think-\"\r\n\r\n\"Do it. Do it now. DO IT NOW! DO IT NOW! DO IT-\"",
 	
 	"ITEM_TOOTH_NAME": "Toof",
-	"ITEM_TOOTH_DESC": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>8 <style=cStack>(+8 per stack)</style> health</style>.",
-	"ITEM_TOOTH_PICKUP": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>8 <style=cStack>(+8 per stack)</style> health</style>.",
+	"ITEM_TOOTH_DESC": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>8 <style=cStack>(+8 per stack)</style> health</style>.", 
+	"ITEM_TOOTH_PICKUP": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>8 <style=cStack>(+8 per stack)</style> health</style>.", 
 
 	"ITEM_CRITGLASSES_NAME": "Glasses",
-	"ITEM_CRITGLASSES_DESC": "Gain a <style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style> chance to <style=cIsDamage>Crit</style>, dealing <style=cIsDamage>double damage</style>. <i>Going above 100% crit chance adds a chance to deal triple damage. Going above 200% crit chance adds a chance to deal quadruple damage, and so forth.<\/i>",
-	"ITEM_CRITGLASSES_PICKUP": "Gain a <style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style> chance to <style=cIsDamage>Crit</style>, dealing <style=cIsDamage>double damage</style>. <i>Going above 100% crit chance adds a chance to deal triple damage. Going above 200% crit chance adds a chance to deal quadruple damage, and so forth.<\/i>",
+	"ITEM_CRITGLASSES_DESC": "Gain a <style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style> chance to <style=cIsDamage>Crit</style>, dealing <style=cIsDamage>double damage</style>. <i>Going above 100% crit chance adds a chance to deal triple damage. Going above 200% crit chance adds a chance to deal quadruple damage, etc.<\/i>", 
+	"ITEM_CRITGLASSES_PICKUP": "Gain a <style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style> chance to <style=cIsDamage>Crit</style>, dealing <style=cIsDamage>double damage</style>. <i>Going above 100% crit chance adds a chance to deal triple damage. Going above 200% crit chance adds a chance to deal quadruple damage, etc.<\/i>", 
 
 	"ITEM_HOOF_NAME": "LEG!",
 	"ITEM_HOOF_DESC": "Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>14%</style> <style=cStack>(+14% per stack)</style>.",
 	"ITEM_HOOF_PICKUP": "Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>14%</style> <style=cStack>(+14% per stack)</style>.",
 
 	"ITEM_FEATHER_NAME": "Jumpy Feather",
-	"ITEM_FEATHER_DESC": "Gain <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> extra <style=cIsUtility>jump(s)</style>.",
-	"ITEM_FEATHER_PICKUP": "Gain <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> extra <style=cIsUtility>jump(s)</style>.",
-
+	"ITEM_FEATHER_DESC": "Gain <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> extra <style=cIsUtility>jump(s)</style>.", 
+	"ITEM_FEATHER_PICKUP": "Gain <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> extra <style=cIsUtility>jump(s)</style>.", 
+ 
 	"ITEM_CHAINLIGHTNING_NAME": "Yooka-Laylee",
 	"ITEM_CHAINLIGHTNING_DESC": "<style=cIsDamage>25%</style> chance on hit to fire <style=cIsDamage>chain lightning</style>, which deals <style=cIsDamage>80%</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 0.2</color> on up to <style=cIsDamage>3 <style=cStack>(+2 per stack)</style></style> targets within <style=cIsDamage>20m</style> <style=cStack>(+2m per stack)</style>.",
 	"ITEM_CHAINLIGHTNING_PICKUP": "<style=cIsDamage>25%</style> chance on hit to fire <style=cIsDamage>chain lightning</style>, which deals <style=cIsDamage>80%</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 0.2</color> on up to <style=cIsDamage>3 <style=cStack>(+2 per stack)</style></style> targets within <style=cIsDamage>20m</style> <style=cStack>(+2m per stack)</style>.",
 
 	"ITEM_SEED_NAME": "Leech Seed",
-	"ITEM_SEED_DESC": "On hit, <style=cIsHealing>heal</style> for <style=cIsHealing>1</style> <style=cStack>(+1 per stack)</style> health. <i>Heal amount is affected by the respective attack's <color=#D47FFF>Proc Coefficient</color>.<\/i>",
-	"ITEM_SEED_PICKUP": "On hit, <style=cIsHealing>heal</style> for <style=cIsHealing>1</style> <style=cStack>(+1 per stack)</style> health. <i>Heal amount is affected by the respective attack's <color=#D47FFF>Proc Coefficient</color>.<\/i>",
+	"ITEM_SEED_DESC": "On hit, <style=cIsHealing>heal</style> for <style=cIsHealing>1</style> <style=cStack>(+1 per stack)</style> health. <i>Heal amount is affected by your attack's <color=#D47FFF>Proc Coefficient</color>.<\/i>", 
+	"ITEM_SEED_PICKUP": "On hit, <style=cIsHealing>heal</style> for <style=cIsHealing>1</style> <style=cStack>(+1 per stack)</style> health. <i>Heal amount is affected by your attack's <color=#D47FFF>Proc Coefficient</color>.<\/i>", 
 
 	"ITEM_ICICLE_NAME": "2018 Limited-Edition Sprite Cranberry Preorder Bonus",
-	"ITEM_ICICLE_DESC": "Killing an enemy surrounds you with a temporary <style=cIsDamage>ice storm</style> that deals <style=cIsDamage>600% damage/second</style> with a <color=#D47FFF>Proc Coefficient of 0.2</color>. Each kill increases the storm's radius by <style=cIsUtility>1m</style>, up to <style=cIsDamage>6m</style> <style=cStack>(+6m per stack)</style>.",
-	"ITEM_ICICLE_PICKUP": "Killing an enemy surrounds you with a temporary <style=cIsDamage>ice storm</style> that deals <style=cIsDamage>600% damage/second</style> with a <color=#D47FFF>Proc Coefficient of 0.2</color>. Each kill increases the storm's radius by <style=cIsUtility>1m</style>, up to <style=cIsDamage>6m</style> <style=cStack>(+6m per stack)</style>.",
+	"ITEM_ICICLE_DESC": "Killing an enemy surrounds you with a temporary <style=cIsDamage>ice storm</style> that deals <style=cIsDamage>600% damage/second</style> with a <color=#D47FFF>Proc Coefficient of 0.2</color>. Each kill increases the storm's radius by <style=cIsUtility>1m</style>, up to <style=cIsDamage>6m</style> <style=cStack>(+6m per stack)</style>.", 
+	"ITEM_ICICLE_PICKUP": "Killing an enemy surrounds you with a temporary <style=cIsDamage>ice storm</style> that deals <style=cIsDamage>600% damage/second</style> with a <color=#D47FFF>Proc Coefficient of 0.2</color>. Each kill increases the storm's radius by <style=cIsUtility>1m</style>, up to <style=cIsDamage>6m</style> <style=cStack>(+6m per stack)</style>.", 
 
 	"ITEM_GHOSTONKILL_NAME": "Mask",
-	"ITEM_GHOSTONKILL_DESC": "<style=cIsDamage>7%</style> chance on kill to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>1500%</style> damage. Lasts <style=cIsUtility>30s</style> <style=cStack>(+30s per stack)</style> unless kept <style=cIsHealing>healed</style>.",
-	"ITEM_GHOSTONKILL_PICKUP": "<style=cIsDamage>7%</style> chance on kill to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>1500%</style> damage. Lasts <style=cIsUtility>30s</style> <style=cStack>(+30s per stack)</style> unless kept <style=cIsHealing>healed</style>.",
+	"ITEM_GHOSTONKILL_DESC": "<style=cIsDamage>7%</style> chance on kill to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>1500%</style> damage. Lasts <style=cIsUtility>30s</style> <style=cStack>(+30s per stack)</style> unless kept <style=cIsHealing>healed</style>.", 
+	"ITEM_GHOSTONKILL_PICKUP": "<style=cIsDamage>7%</style> chance on kill to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>1500%</style> damage. Lasts <style=cIsUtility>30s</style> <style=cStack>(+30s per stack)</style> unless kept <style=cIsHealing>healed</style>.", 
 
 	"ITEM_MUSHROOM_NAME": "<color=#00FF77>B U N G U S</color>",
-	"ITEM_MUSHROOM_DESC": "After standing still for <style=cIsUtility>2 seconds</style>, create a zone that <style=cIsHealing>heals for 4.5%</style> <style=cStack>(+2.25% per stack)</style> of your <style=cIsHealing>maximum health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>.",
-	"ITEM_MUSHROOM_PICKUP": "After standing still for <style=cIsUtility>2 seconds</style>, create a zone that <style=cIsHealing>heals for 4.5%</style> <style=cStack>(+2.25% per stack)</style> of your <style=cIsHealing>maximum health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>.",
+	"ITEM_MUSHROOM_DESC": "After standing still for <style=cIsUtility>2 seconds</style>, create a zone that <style=cIsHealing>heals for 4.5%</style> <style=cStack>(+2.25% per stack)</style> of your <style=cIsHealing>maximum health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>.", 
+	"ITEM_MUSHROOM_PICKUP": "After standing still for <style=cIsUtility>2 seconds</style>, create a zone that <style=cIsHealing>heals for 4.5%</style> <style=cStack>(+2.25% per stack)</style> of your <style=cIsHealing>maximum health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>.", 
 
 	"ITEM_CROWBAR_NAME": "Crowbar",
-	"ITEM_CROWBAR_DESC": "Deal <style=cIsDamage>150%</style> <style=cStack>(+50% per stack)</style> damage to enemies above <style=cIsHealth>90% health</style>.",
-	"ITEM_CROWBAR_PICKUP": "Deal <style=cIsDamage>150%</style> <style=cStack>(+50% per stack)</style> damage to enemies above <style=cIsHealth>90% health</style>.",
+	"ITEM_CROWBAR_DESC": "Deal <style=cIsDamage>150%</style> <style=cStack>(+50% per stack)</style> damage to enemies above <style=cIsHealth>90% health</style>.",   
+	"ITEM_CROWBAR_PICKUP": "Deal <style=cIsDamage>150%</style> <style=cStack>(+50% per stack)</style> damage to enemies above <style=cIsHealth>90% health</style>.",   
 
 	"ITEM_ATTACKSPEEDONCRIT_NAME": "Headdress",
 	"ITEM_ATTACKSPEEDONCRIT_DESC": "Gain <style=cIsDamage>5% crit chance</style>. <style=cIsDamage>Crits</style> increase <style=cIsDamage>attack speed</style> by <style=cIsDamage>12%</style>, up to <style=cIsDamage>36% <style=cStack>(+24% per stack)</style></style>.",
@@ -85,11 +85,11 @@
 	"ITEM_BLEEDONHIT_DESC": "<style=cIsDamage>15%</style> <style=cStack>(+15% per stack)</style> chance to <style=cIsDamage>bleed</style> an enemy for <style=cIsDamage>240%</style> base damage.",
 	"ITEM_BLEEDONHIT_PICKUP": "<style=cIsDamage>15%</style> <style=cStack>(+15% per stack)</style> chance to <style=cIsDamage>bleed</style> an enemy for <style=cIsDamage>240%</style> base damage.",
 
-	"ITEM_SPRINTOUTOFCOMBAT_NAME": "Whip",
+	"ITEM_SPRINTOUTOFCOMBAT_NAME": "Whippet",
 	"ITEM_SPRINTOUTOFCOMBAT_DESC": "Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>30%</style> <style=cStack>(+30% per stack)</style> after not using any abilities for <style=cIsUtility>5 seconds</style>. <i>Taking damage does not cancel this effect.<\/i>",
 	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>30%</style> <style=cStack>(+30% per stack)</style> after not using any abilities for <style=cIsUtility>5 seconds</style>. <i>Taking damage does not cancel this effect.<\/i>",
 
-	"ITEM_FALLBOOTS_NAME": "Jumpy Boots",
+	"ITEM_FALLBOOTS_NAME": "Yeezys",
 	"ITEM_FALLBOOTS_DESC": "<style=cIsUtility>Increases jump height</style>, and <style=cIsHealing>negates all fall damage</style>. <style=cIsUtility>Hold 'Interact'</style> in the air to launch downward, creating a <style=cIsDamage>10m</style> radius <style=cIsDamage>explosion</style> dealing <style=cIsDamage>2300%</style> base damage on impact. Damage scales with <style=cIsUtility>speed</style>. Recharges in <style=cIsUtility>10s</style> <style=cStack>(-50% per stack)</style>. <i>Lose bonus jump height while recharging<\/i>.",
 	"ITEM_FALLBOOTS_PICKUP": "<style=cIsUtility>Increases jump height</style>, and <style=cIsHealing>negates all fall damage</style>. <style=cIsUtility>Hold 'Interact'</style> in the air to launch downward, creating a <style=cIsDamage>10m</style> radius <style=cIsDamage>explosion</style> dealing <style=cIsDamage>2300%</style> base damage on impact. Damage scales with <style=cIsUtility>speed</style>. Recharges in <style=cIsUtility>10s</style> <style=cStack>(-50% per stack)</style>. <i>Lose bonus jump height while recharging<\/i>.",
 	"ITEM_FALLBOOTS_LORE": "\"Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.\r\n\r\nThe invention of Kinetic Dispersion Rings (above) help alleviate the stress of heavier-than-normal gravity by converting kinetic energy into heat, sound, and light. Settlers from Mercury could finally leave their home planet in safety.\"\r\n\r\n-Mercurian History Museum\r\n",
@@ -157,7 +157,7 @@
 	"ITEM_IGNITEONKILL_PICKUP": "Killing an enemy <style=cIsDamage>ignites</style> all enemies within <style=cIsDamage>12m</style> <style=cStack>(+4m per stack)</style>. Enemies <style=cIsDamage>burn</style> for <style=cIsDamage>150%</style> <style=cStack>(+75% per stack)</style> base damage.",
 	"ITEM_IGNITEONKILL_LORE" : "<style=cMono>\r\nAudio transcription complete from signal echoes. Assigning generic tokens.</style>\r\n\r\n[Fire crackling]\r\n\r\nMAN 1: D-do you think they're gonna come for us?\r\n\r\nMAN 2: They'll try. It's going to be a very long while.\r\n\r\nMAN 1: What? Why?\r\n\r\nMAN 2: A long while. Even if they know where to look we'd be months out from the nearest port. And that's if they even have any ships as fast as ours \u2013 FTL ships are very rare nowadays.\r\n\r\nMAN 1: Months...?! And what do you mean if they know where? What about the other ships on our shipping routes?\r\n\r\nMAN 2: We weren't on the route.\r\n\r\n[Fire pops]\r\n\r\nMAN 1: What?!\r\n\r\nMAN 2: We should've been halfway to Procyon by the time we crashed... but we weren\u2019t. The ship never announced it was slowing down either, so that\u2019ll make triangulating our positions even harder.\r\n\r\nMAN 1: I-I don't get it. Who would take a UESC train off course? That's completely insane!\r\n\r\nMAN 2: I don\u2019t know \u2013 only the Captain does. There\u2019s no reason to slow down in this star system - there's not even supposed to be a habitable planet out here.\r\n\r\n[Sizzling]\r\n\r\nMAN 2: This looks cooked to me. Can't vouch for how it'll taste - but we have to eat.\r\n\r\nMAN 1: I... I can't even think right now. I\u2019m not hungry.\r\n\r\nMAN 2: Eat. We've got a lot of traveling to do tomorrow and we'll need to keep our strength.\r\n\r\nMAN 1: Sure. Okay. Okay. Um\u2026 do you think it's poisonous?\r\n\r\nMAN 2: Eat.\r\n\r\n<style=cMono>End of requested transcript. </style>\r\n",
 
-	"ITEM_BOUNCENEARBY_NAME": "Meat Hook",
+	"ITEM_BOUNCENEARBY_NAME": "Captain Hook",
 	"ITEM_BOUNCENEARBY_DESC": "<style=cIsDamage>20%</style> <style=cStack>(+20% per stack)</style> chance on hit to <style=cIsDamage>fire homing hooks</style> at up to <style=cIsDamage>10</style> <style=cStack>(+5 per stack)</style> enemies for <style=cIsDamage>100%</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 0.33</color>.",
 	"ITEM_BOUNCENEARBY_PICKUP": "<style=cIsDamage>20%</style> <style=cStack>(+20% per stack)</style> chance on hit to <style=cIsDamage>fire homing hooks</style> at up to <style=cIsDamage>10</style> <style=cStack>(+5 per stack)</style> enemies for <style=cIsDamage>100%</style> TOTAL damage with a <color=#D47FFF>Proc Coefficient of 0.33</color>.",
 	"ITEM_BOUNCENEARBY_LORE": "\"When artificial intelligence became more commonplace, many companies jumped on the trend for \"smart\" products. This included smart doors, lights, coffee makers, lawnmowers, vacuum cleaners, bedding, kitchen knife sets, and other home goods. After a series of gruesome lawsuits stemming from hacked smart appliances, most products soon went back to their more traditional, analog lines.\"\r\n\r\n-\"Why Is Smart So Dumb? VII\"\r\n",
@@ -269,7 +269,7 @@
 	"ITEM_HEADHUNTER_DESC": "Upon <style=cIsDamage>killing</style> an Elite monster, gain the power of its <style=cIsDamage>aspect</style> for <style=cIsUtility>8s</style> <style=cStack>(+5s per stack)</style>.",
 	"ITEM_HEADHUNTER_PICKUP": "Upon <style=cIsDamage>killing</style> an Elite monster, gain the power of its <style=cIsDamage>aspect</style> for <style=cIsUtility>8s</style> <style=cStack>(+5s per stack)</style>.",
 	
-	"ITEM_KILLELITEFRENZY_NAME": "<color=#FF0000>B</color><color=#FF6200>R</color><color=#FFD900>A</color><color=#80FF00>I</color><color=#00FF37>N</color> <color=#00FFC3>P</color><color=#00A2FF>O</color><color=#0022FF>W</color><color=#9900FF>E</color><color=#FF009D>R</color>!",
+	"ITEM_KILLELITEFRENZY_NAME": "<color=#FF0000>B</color><color=#FF6200>R</color><color=#FFD900>A</color><color=#80FF00>I</color><color=#00FF37>N</color> <color=#00FFC3>P</color><color=#00A2FF>O</color><color=#0022FF>W</color><color=#9900FF>E</color><color=#FF009D>R</color><color=#000000>!</color>",
 	"ITEM_KILLELITEFRENZY_DESC": "Upon <style=cIsDamage>killing</style> an elite monster, all of your skill cooldowns will be reduced to <style=cIsUtility>0.5s</style> for <style=cIsUtility>4s</style> <style=cStack>(+4s per stack)</style>. <i>Praise NOMA!<\/i>",
 	"ITEM_KILLELITEFRENZY_PICKUP": "Upon <style=cIsDamage>killing</style> an elite monster, all of your skill cooldowns will be reduced to <style=cIsUtility>0.5s</style> for <style=cIsUtility>4s</style> <style=cStack>(+4s per stack)</style>. <i>Praise NOMA!<\/i>",
 	"ITEM_KILLELITEFRENZY_LORE" : "Are you ready?\r\nAdrenaline is pumpin', adrenaline is pumpin'!\r\nGenerator... automatic lover.\r\nAtomic, atomic!\r\nOverdrive!\r\nBlockbuster... Brainpower.\r\nCall me a leader, cocaine!\r\nDon't you try it, don't you try it!\r\nInnovator... killer machine.\r\nThere's no fate, take control!\r\nBrainpower!\r\nLET THE BASS KICK!\r\n\r\nO-oooooooooo AAAAE-A-A-I-A-U-\r\nJO-oooooooooooo AAE-O-A-A-U-U-A-\r\nE-eee-ee-eee AAAAE-A-E-I-E-A-\r\nJO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA",
@@ -351,7 +351,7 @@
 	"ITEM_PEARL_DESC" : "Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>10%</style> <style=cStack>(+10% per stack)</style>.",
 	"ITEM_PEARL_PICKUP" : "Increases <style=cIsHealing>maximum health</style> by <style=cIsHealing>10%</style> <style=cStack>(+10% per stack)</style>.",
 
-	"ITEM_SHINYPEARL_NAME" : "Better Pearl",
+	"ITEM_SHINYPEARL_NAME" : "Premium Pearl",
 	"ITEM_SHINYPEARL_DESC" : "Increases <style=cIsHealing>all stats</style> by <style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style>.",
 	"ITEM_SHINYPEARL_PICKUP" : "Increases <style=cIsHealing>all stats</style> by <style=cIsUtility>10%</style> <style=cStack>(+10% per stack)</style>.",
 
@@ -377,7 +377,7 @@
 	"ITEM_LUNARTRINKET_DESC" : "Sends you to <style=cIsDamage>the final boss</style> after obliterating.",
 	"ITEM_LUNARTRINKET_PICKUP" : "Sends you to <style=cIsDamage>the final boss</style> after obliterating.",
 
-	"ITEM_REPULSIONARMORPLATE_NAME" : "Armor Plate",
+	"ITEM_REPULSIONARMORPLATE_NAME" : "Mini Mighty Metal Man",
 	"ITEM_REPULSIONARMORPLATE_PICKUP" : "Reduce all <style=cIsDamage>incoming damage</style> by <style=cIsDamage>5<style=cStack> (+5 per stack)</style></style>. Cannot be reduced below <style=cIsDamage>1</style>.",
 	"ITEM_REPULSIONARMORPLATE_DESC" : "Reduce all <style=cIsDamage>incoming damage</style> by <style=cIsDamage>5<style=cStack> (+5 per stack)</style></style>. Cannot be reduced below <style=cIsDamage>1</style>.",
 	"ITEM_REPULSIONARMORPLATE_LORE" : "Order: Repulsion Armor Replacement Piece\r\nTracking Number: 09******\r\nEstimated Delivery: 08\/15\/2056\r\nShipping Method:  Standard\r\nShipping Address: System Police Station 13, Port of Marv, Ganymede\r\nShipping Details:\r\n\r\nLuckily no one was hurt during the shootout. Just a few rough characters at the bar by the docks. Nothing we couldn\u2019t handle. Jaime took a shot to his shoulder but his armor took all the impact. We\u2019ll need to order him a replacement part before he can go back out in the field.\r\n\r\nThe segmented design is nice because I don\u2019t have to shell out the cash for a whole new set. Frankly, the station\u2019s coffers have seen better days. The next time a rookie damages their equipment they might be looking at a desk job for a while.\r\n",

@@ -4,7 +4,7 @@
 		"GAME_TITLE": "Spacegame 2017",
 		"DEFAULT_FONT": "TmpFonts/Bombardier/tmpBombDropShadow",
 		
-		"LOREM" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+		"LOREM" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", 
 		"TITLE_PROFILE": "Hi, {0}!",
 		"TITLE_PROFILE_DESC" : "Switch between your alt accounts.",
 		"TITLE_SINGLEPLAYER": "1 Man",
@@ -39,7 +39,7 @@
 		"MORE_LICENSE" : "<3",
 		"MORE_LICENSE_DESC" : "Copyright (C) 1997 - 42069 MikesJam, LOL. All rights not reserved.\r\n\r\nMade possible because of Autism, Pandemic Powers, and the magic of Vyvanse 50mg.\r\n\r\nNatsuki best girl. Honorable mentions to Mashiro, Madoka, and Taiga.\r\n\r\nDedicated to my good friend Admiral Bread. Wish you were still here, man.\r\n\r\npaige is a nerd and sky is 0ld and jj is a cat lolololololololol :)",
 
-		"DESC_MULTIPLAYER_QUICKPLAY": "Find random people to suffer with you.",
+		"DESC_MULTIPLAYER_QUICKPLAY": "Find randos to suffer with you.",
 		"DESC_MULTIPLAYER_HOST": "Host the most toast.",
 		"DESC_MULTIPLAYER_JOIN": "Click here to receive a FREE Nintendo Wii!",
 		"DESC_MULTIPLAYER_INVITE": "Ask nicely.",
@@ -121,7 +121,7 @@
 		"OK" : "uhh... ok",
 		"CANCEL" : "BEGONE!",
 		
-		"PLAYER_NAME_TOOLTIP_FORMAT" : "{0}, The Horrid",
+		"PLAYER_NAME_TOOLTIP_FORMAT" : "Not {0}",
 		"PLAYER_NAME_DISCONNECTED" : "Thot terminated.",
 		"PLAYER_NAME_UNAVAILABLE" : "???",
 		
@@ -167,9 +167,9 @@
 		"BLOCKED_DAMAGE_HITMARKER": "BLOCKED!",
 		"EXTRALIFE_REVIVED_EFFECT": "REVIVED!",
 		
-		"SCOREBOARD_HEADER_PLAYERS": "Players",
-		"SCOREBOARD_HEADER_ITEMS": "Items",
-		"SCOREBOARD_HEADER_EQUIPMENT": "Equipment",
+		"SCOREBOARD_HEADER_PLAYERS": "Pee Pole",
+		"SCOREBOARD_HEADER_ITEMS": "Stuff",
+		"SCOREBOARD_HEADER_EQUIPMENT": "Secret Weapon",
 		
 		"HUD_LEVEL_PREFIX": "Age:",
 	}

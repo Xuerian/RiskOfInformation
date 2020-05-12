@@ -21,7 +21,7 @@
 	"EQUIPMENT_SOULJAR_DESC": "Duplicate every enemy as a ghost to fight on your side for 15 seconds.",
 	"EQUIPMENT_SOULJAR_PICKUP": "Duplicate every enemy as a ghost to fight on your side for 15 seconds.",
 
-	"EQUIPMENT_BLACKHOLE_NAME": "KYOOB!",
+	"EQUIPMENT_BLACKHOLE_NAME": "KYOOB! Defender of the Polyverse!",
 	"EQUIPMENT_BLACKHOLE_DESC": "Fires a slowly traveling <style=cIsDamage>black hole</style> that sucks up enemies within <style=cIsUtility>30m</style> of it. Lasts for <style=cIsUtility>10 seconds</style>. Has a cooldown of <style=cIsUtility>45 seconds</style>.",
 	"EQUIPMENT_BLACKHOLE_PICKUP": "Fires a slowly traveling <style=cIsDamage>black hole</style> that sucks up enemies within <style=cIsUtility>30m</style> of it. Lasts for <style=cIsUtility>10 seconds</style>. Has a cooldown of <style=cIsUtility>45 seconds</style>.",
 
@@ -33,12 +33,12 @@
 	"EQUIPMENT_CRITONUSE_DESC": "Gain <style=cIsDamage>+100% Crit Chance</style> for 8 seconds. Has a cooldown of <style=cIsUtility>60 seconds</style>.",
 	"EQUIPMENT_CRITONUSE_PICKUP": "Gain <style=cIsDamage>+100% Crit Chance</style> for 8 seconds. Has a cooldown of <style=cIsUtility>60 seconds</style>.",
 
-	"EQUIPMENT_DRONEBACKUP_NAME": "Back-up Bois",
+	"EQUIPMENT_DRONEBACKUP_NAME": "Back-Up Bois",
 	"EQUIPMENT_DRONEBACKUP_DESC": "Summon <style=cIsDamage>4 Strike Drones</style> to fight for you for <style=cIsUtility>25 seconds</style>. Has a cooldown of <style=cIsUtility>100 seconds</style>. <i>Drones do not proc items.</i>",
 	"EQUIPMENT_DRONEBACKUP_PICKUP": "Summon <style=cIsDamage>4 Strike Drones</style> to fight for you for <style=cIsUtility>25 seconds</style>. Has a cooldown of <style=cIsUtility>100 seconds</style>. <i>Drones do not proc items.</i>",
 	"EQUIPMENT_DRONEBACKUP_LORE": "\"The inclusion of Rapid Response Drone Squadrons (RRDS) by local law enforcement marked a dire turning point of Plank's Rebellion. After its massive \"success\" in quelling the Rebellion - and subsequent implementation across Mercury - underground drone hackers became highly sought after by black market users.\"\r\n\r\n-Overview of Drone Technology, Vol.2\r\n",
 
-	"EQUIPMENT_BFG_NAME": "The BFG",
+	"EQUIPMENT_BFG_NAME": "BFG",
 	"EQUIPMENT_BFG_DESC": "Fires an energy ball, <style=cIsDamage>zapping</style> enemies within <style=cIsUtility>35m</style> for up to <style=cIsDamage>600% damage/second</style> with a <color=#D47FFF>Proc Coefficient of 0.1</color>. On contact, detonates in a <style=cIsUtility>20m</style> <style=cIsDamage>explosion</style> for <style=cIsDamage>4000% damage</style> with a <color=#D47FFF>Proc Coefficient of 1</color>. Has a cooldown of <style=cIsUtility>140 seconds</style>.",
 	"EQUIPMENT_BFG_PICKUP": "Fires an energy ball, <style=cIsDamage>zapping</style> enemies within <style=cIsUtility>35m</style> for up to <style=cIsDamage>600% damage/second</style> with a <color=#D47FFF>Proc Coefficient of 0.1</color>. On contact, detonates in a <style=cIsUtility>20m</style> <style=cIsDamage>explosion</style> for <style=cIsDamage>4000% damage</style> with a <color=#D47FFF>Proc Coefficient of 1</color>. Has a cooldown of <style=cIsUtility>140 seconds</style>.",
 
@@ -46,15 +46,15 @@
     "EQUIPMENT_JETPACK_DESC": "Gain the ability to <style=cIsUtility>fly</style>, and gain <style=cIsUtility>+20% movement speed</style> for <style=cIsUtility>15 seconds</style>. Has a cooldown of <style=cIsUtility>60 seconds</style>.",
     "EQUIPMENT_JETPACK_PICKUP": "Gain the ability to <style=cIsUtility>fly</style>, and gain <style=cIsUtility>+20% movement speed</style> for <style=cIsUtility>15 seconds</style>. Has a cooldown of <style=cIsUtility>60 seconds</style>.",
 
-	"EQUIPMENT_LIGHTNING_NAME": "Capacitor",
+	"EQUIPMENT_LIGHTNING_NAME": "Zapacitor",
     "EQUIPMENT_LIGHTNING_DESC": "Call down a <style=cIsDamage>lightning strike</style> on a targeted monster, dealing <style=cIsDamage>3000% damage</style> with a <color=#D47FFF>Proc Coefficient of 1</color> and <style=cIsDamage>stunning</style> nearby monsters. Has a cooldown of <style=cIsUtility>20 seconds</style>.",
     "EQUIPMENT_LIGHTNING_PICKUP": "Call down a <style=cIsDamage>lightning strike</style> on a targeted monster, dealing <style=cIsDamage>3000% damage</style> with a <color=#D47FFF>Proc Coefficient of 1</color> and <style=cIsDamage>stunning</style> nearby monsters. Has a cooldown of <style=cIsUtility>20 seconds</style>.",
 
-	"EQUIPMENT_GOLDGAT_NAME": "Crowdfunder",
+	"EQUIPMENT_GOLDGAT_NAME": "Yen Yeeter",
     "EQUIPMENT_GOLDGAT_DESC": "Fires a continuous barrage that deals <style=cIsDamage>100% damage per bullet</style> with a <color=#D47FFF>Proc Coefficient of 1</color>. <style=cIsUtility>Costs $1 per bullet</style>. Cost increases over time.",
     "EQUIPMENT_GOLDGAT_PICKUP": "Fires a continuous barrage that deals <style=cIsDamage>100% damage per bullet</style> with a <color=#D47FFF>Proc Coefficient of 1</color>. <style=cIsUtility>Costs $1 per bullet</style>. Cost increases over time.",
 	
-	"EQUIPMENT_PASSIVEHEALING_NAME": "Woodsprite",
+	"EQUIPMENT_PASSIVEHEALING_NAME": "Healthy Lad",
 	"EQUIPMENT_PASSIVEHEALING_DESC":"Gain a Woodsprite follower that heals for <style=cIsHealing>1.5% of your maximum health/second</style>. Can be sent to an ally to heal them for <style=cIsHealing>10% of their maximum health</style>. Has a cooldown of <style=cIsUtility>15 seconds</style>.",
 	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Gain a Woodsprite follower that heals for <style=cIsHealing>1.5% of your maximum health/second</style>. Can be sent to an ally to heal them for <style=cIsHealing>10% of their maximum health</style>. Has a cooldown of <style=cIsUtility>15 seconds</style>.",
 
@@ -111,7 +111,7 @@
 	"EQUIPMENT_QUESTVOLATILEBATTERY_DESC" : "Used to unlock REX in the Abyssal Depths. Falling below <color=#FF7F7F>50% health</color> causes <style=cIsDamage>an explosion</style> after a short timer dealing <color=#FF7F7F>300% healh</color> in damage. This item is removed upon triggering said effect.",
 	"EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP" : "Used to unlock REX in the Abyssal Depths. Falling below <color=#FF7F7F>50% health</color> causes <style=cIsDamage>an explosion</style> after a short timer dealing <color=#FF7F7F>300% healh</color> in damage. This item is removed upon triggering said effect.",
 
-	"EQUIPMENT_CLEANSE_NAME" : "Cleanse",
+	"EQUIPMENT_CLEANSE_NAME" : "Mr. Clean",
 	"EQUIPMENT_CLEANSE_DESC" : "<style=cIsHealing>Remove all negative effects</style>. Includes debuffs, damage over time, and nearby projectiles. Has a cooldown of <style=cIsUtility>20 seconds</style>.",
 	"EQUIPMENT_CLEANSE_PICKUP" : "<style=cIsHealing>Remove all negative effects</style>. Includes debuffs, damage over time, and nearby projectiles. Has a cooldown of <style=cIsUtility>20 seconds</style>.",
 

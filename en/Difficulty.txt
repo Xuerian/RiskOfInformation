@@ -5,12 +5,12 @@
 	"DIFFICULTY_BAR_1": "EZ",
 	"DIFFICULTY_BAR_2": "Less EZ",
 	"DIFFICULTY_BAR_3": "Tingly",
-	"DIFFICULTY_BAR_4": "Brain Provoking",
-	"DIFFICULTY_BAR_5": "Rock Hard",
+	"DIFFICULTY_BAR_4": "Interesting",
+	"DIFFICULTY_BAR_5": "Half Mast",
 	"DIFFICULTY_BAR_6": "Largely Painful",
 	"DIFFICULTY_BAR_7": "Y'all ready for this?",
 	"DIFFICULTY_BAR_8": "THE YEARS START COMIN'",
-	"DIFFICULTY_BAR_9": "<color=#FF0000>AND</color> <color=#FF6200>THEY</color> <color=#FFD900>DON'T</color> <color=#00FF37>STOP</color> <color=#0022FF>COM</color><color=#FF009D>IN'</color> ",
+	"DIFFICULTY_BAR_9": "<color=#FF0000>AND</color><color=#FF6200>THEY</color><color=#FFD900>DON'T</color><color=#00FF37>STOP</color><color=#0022FF>COM</color><color=#FF009D>IN'</color>",
 	"STAGE_COUNT_FORMAT" : "<style=cSub>Stage\n</style> {0}",
 	}
 }

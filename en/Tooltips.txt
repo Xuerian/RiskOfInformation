@@ -5,7 +5,7 @@
 		"TOOLTIP_EQUIPMENT": "<color=orange>Equipment</color> items are strong, but have long cooldowns.",
 		"TOOLTIP_SPRINT": "Sprinting is automatic! Have a look around!",
 		"TOOLTIP_WIP_CONTENT_NAME" : "EARLY ACCESS LOL",
-		"TOOLTIP_WIP_CONTENT_DESCRIPTION" : "this game ain't done yet lmao",
+		"TOOLTIP_WIP_CONTENT_DESCRIPTION" : "NOT DONE LOL",
 
 		"TOOLTIP_UNLOCK_LOG_NAME" : "Logbook Entry Unlocked",
 		"TOOLTIP_UNLOCK_LOG_DESCRIPTION" : "This entry will now appear in the Logbook.",

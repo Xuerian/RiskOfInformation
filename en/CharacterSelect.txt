@@ -1,7 +1,7 @@
 {
 	"strings":
 	{
-		"CHARACTER_SELECT_TITLE": "Pick-A-Man v6.9",
+		"CHARACTER_SELECT_TITLE": "Pick-A-Man v69",
 		"CHARACTER_SELECT_SELECT_SURVIVOR" : "Choose wisely...",
 		"SURVIVOR_OVERVIEW": "The View",
 		"SURVIVOR_SKILLS": "Gamer Moves",

@@ -1,8 +1,8 @@
 {
 	strings:
 	{
-	"EARLY_ACCESS_DISCLAIMER": "lol this game ain't done yet<sprite name=\"WIP\">\r\n\r\nSuck ma dick!\r\n\r\nK bye\r\n\r\n- Mike",
-	"EARLY_ACCESS_LORE" : "<style=cStack>\r\nThe devs were too lazy to write something here, so I did!\r\nI just shat my britches.\r\nYep, time to go wipe.\r\nHopefully I have toilet paper.\r\nFUCK!\r\nI'm just gonna take a shower, then.\r\n<\/style>\r\n\r\n<sprite name=\"WIP\"> Poopty Peupty Pants. <sprite name=\"WIP\">\r\n</style>",
+	"EARLY_ACCESS_DISCLAIMER": "<sprite name=\"WIP\"><sprite name=\"WIP\"><sprite name=\"WIP\"><sprite name=\"WIP\"><sprite name=\"WIP\">\r\n\r\lol this game ain't finished yet!\r\n\r\nfuk u hoe poo\r\n\r\njk i love u hoe poo\r\n\r\n<i>- Mike<\/i>\r\n\r\n<sprite name=\"WIP\"><sprite name=\"WIP\"><sprite name=\"WIP\"><sprite name=\"WIP\"><sprite name=\"WIP\">",
+	"EARLY_ACCESS_LORE" : "<style=cStack>\r\nThe devs were too lazy to write something here, so I did!\r\nThis game is pretty good.\r\nOne day I'll write something better here.\r\nI didn't even know this game had lore!\r\nMaybe I'll give every item some dumb lore...\r\nYeah, that sounds fun.\r\n<\/style>\r\n\r\n<sprite name=\"WIP\"> Remember to SMASH THAT LIKE BUTTON, COMMENT, and SUBSCRIBE! <sprite name=\"WIP\">\r\n</style>",
 	}
 }
 

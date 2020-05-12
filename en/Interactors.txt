@@ -3,7 +3,7 @@
 	{
 	//[INTERACTABLES],
 	"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "GET THE FUCK OUT!",
-	"SURVIVOR_POD_OPEN_PANEL_CONTEXT" : "Unlock REX?",
+	"SURVIVOR_POD_OPEN_PANEL_CONTEXT" : "Try to unlock REX?",
 	"TELEPORTER_NAME": "Teleprompter",
 	"TELEPORTER_BEGIN_CONTEXT": "Activate Teleprompter!",
 	"TELEPORTER_END_CONTEXT": "Enter Teleprompter",
@@ -99,11 +99,11 @@
 	
 	"SHRINE_BLOOD_NAME": "Blood Shrine",
 	"SHRINE_BLOOD_CONTEXT": "Yes daddy",
-	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>You cut yourself and gained {1} new Instagram followers.</color>",
-	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} cut themselves and gained {1} new Instagram followers.</color>",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>You cut yourself to gain {1} new Instagram followers.</color>",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} cut themselves to gain {1} new Instagram followers.</color>",
 
 	"SHRINE_CHANCE_NAME": "Gamble Shrine",
-	"SHRINE_CHANCE_CONTEXT": "This time for sure...",
+	"SHRINE_CHANCE_CONTEXT": "This time for sure!",
 	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>WINNER!</color>",
 	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} is a WINNER!</color>",
 	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>LOSER!</color>",
@@ -122,7 +122,7 @@
 	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} threw away their build.</color>",
 
 	"SHRINE_GOLDSHORES_NAME": "Patrician Pillar",
-	"SHRINE_GOLDSHORES_CONTEXT": "Gain access to GOL BOI's Bachelor Pad",
+	"SHRINE_GOLDSHORES_CONTEXT": "Gain access to GOLD BOI's Bachelor Pad",
 
 	"SHRINE_COMBAT_NAME": "Combat Shrine",
 	"SHRINE_COMBAT_CONTEXT": "IT'S MY MONEY AND I NEED IT NOW!",
@@ -142,7 +142,7 @@
 	"GOLDTOTEM_NAME": "Bacon",
 	"GOLDTOTEM_CONTEXT": "mmm yes",
 
-	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] {1}s are comin' to town!</style>",
+	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] Some {1}s are comin' to town!</style>",
 	"ARENA_ADD_ITEM" : "<style=cWorldEvent>[WARNING] The boys now have {1}!</style>",
 	"ARENA_END" : "<style=cWorldEvent>GG!</style>",
 	"NULL_WARD_NAME" : "Void Nut",
@@ -160,8 +160,8 @@
 	"SCAVBACKPACK_NAME" : "Sackelmore's Bag o' Goodies",
 	"SCAVBACKPACK_CONTEXT" : "Smack that sack!",
 	//[DRONES],
-	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Smol Schutti",
-	"DRONE_GUNNER_CONTEXT": "Repair Smol Schutti",
+	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Soarin' Schutti",
+	"DRONE_GUNNER_CONTEXT": "Repair Soarin' Schutti",
 
 	"DRONE_MEGA_INTERACTABLE_NAME": "Broken Sacred Lad",
 	"DRONE_MEGA_CONTEXT": "Give him a new home",
@@ -189,8 +189,8 @@
 	"PORTAL_SHOP_CONTEXT": "Enter Bazaar Portal",
 	"PORTAL_GOLDSHORES_NAME" : "GOLD BOI Portal",
 	"PORTAL_GOLDSHORES_CONTEXT": "Enter GOLD BOI Portal",
-	"PORTAL_MYSTERYSPACE_NAME" : "Obliterate Portal",
-	"PORTAL_MYSTERYSPACE_CONTEXT": "Enter Obliterate Portal",
+	"PORTAL_MYSTERYSPACE_NAME" : "Obliteration Portal",
+	"PORTAL_MYSTERYSPACE_CONTEXT": "Enter Obliteration Portal",
 	"PORTAL_ARENA_NAME" : "Void Portal",
 	"PORTAL_ARENA_CONTEXT" : "Enter Void Portal",
 	"PORTAL_ARTIFACTWORLD_NAME" : "Artifact Portal",
