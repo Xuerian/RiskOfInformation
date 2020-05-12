@@ -2,15 +2,15 @@
 	strings:
 	{
 	"LOGBOOK" : "Logbook",
-	"LOGBOOK_CATEGORY_ITEMANDEQUIPMENT" : "Item & Equipment",
-	"LOGBOOK_CATEGORY_ITEM" : "Item",
-	"LOGBOOK_CATEGORY_EQUIPMENT" : "Equipment",
-	"LOGBOOK_CATEGORY_ACHIEVEMENTS" : "Challenge",
+	"LOGBOOK_CATEGORY_ITEMANDEQUIPMENT" : "Stuff",
+	"LOGBOOK_CATEGORY_ITEM" : "Things",
+	"LOGBOOK_CATEGORY_EQUIPMENT" : "Tools",
+	"LOGBOOK_CATEGORY_ACHIEVEMENTS" : "Tryhard Goals",
 
-	"LOGBOOK_CATEGORY_MONSTER" : "Monster",
-	"LOGBOOK_CATEGORY_STAGE" : "Environment",
-	"LOGBOOK_CATEGORY_SURVIVOR" : "Survivor",
-	"LOGBOOK_CATEGORY_FRAGMENT" : "Fragment",
+	"LOGBOOK_CATEGORY_MONSTER" : "Entities",
+	"LOGBOOK_CATEGORY_STAGE" : "Locations",
+	"LOGBOOK_CATEGORY_SURVIVOR" : "Characters",
+	"LOGBOOK_CATEGORY_FRAGMENT" : "Fragments",
 
 	"LOGBOOK_UNLOCK_ITEM_LOG" : "Find this item in the world to unlock this log entry.",
 	"LOGBOOK_UNLOCK_ITEM_MONSTER" : "Defeat this monster for a chance to unlock this log entry.",

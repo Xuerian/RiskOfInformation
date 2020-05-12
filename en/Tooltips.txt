@@ -1,11 +1,11 @@
 {
 	"strings":
 	{
-		"TOOLTIP_TIME_DIFFICULTY": "Difficulty is <i>ALWAYS</i> increasing with time - play fast!",
-		"TOOLTIP_EQUIPMENT": "<color=orange>Equipment</color> are powerful, activated items.",
-		"TOOLTIP_SPRINT": "Sprint to get around the map!",
-		"TOOLTIP_WIP_CONTENT_NAME" : "Under Construction",
-		"TOOLTIP_WIP_CONTENT_DESCRIPTION" : "This piece of content is still in development. Come back soon!",
+		"TOOLTIP_TIME_DIFFICULTY": "Difficulty is constantly increasing. Don't fall behind!",
+		"TOOLTIP_EQUIPMENT": "<color=orange>Equipment</color> items are strong, but have long cooldowns.",
+		"TOOLTIP_SPRINT": "Sprinting is automatic! Have a look around!",
+		"TOOLTIP_WIP_CONTENT_NAME" : "EARLY ACCESS LOL",
+		"TOOLTIP_WIP_CONTENT_DESCRIPTION" : "this game ain't done yet lmao",
 
 		"TOOLTIP_UNLOCK_LOG_NAME" : "Logbook Entry Unlocked",
 		"TOOLTIP_UNLOCK_LOG_DESCRIPTION" : "This entry will now appear in the Logbook.",

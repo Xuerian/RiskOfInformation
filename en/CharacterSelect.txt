@@ -1,13 +1,13 @@
 {
 	"strings":
 	{
-		"CHARACTER_SELECT_TITLE": "Character Select",
-		"CHARACTER_SELECT_SELECT_SURVIVOR" : "Select a Survivor",
-		"SURVIVOR_OVERVIEW": "Overview",
-		"SURVIVOR_SKILLS": "Skills",
-		"SURVIVOR_LOADOUT": "Loadout",
-		"CHARACTER_SELECT_READY": "Ready",
-		"CHARACTER_SELECT_LOCKED_IN": "Locked In",
+		"CHARACTER_SELECT_TITLE": "Pick-A-Man v6.9",
+		"CHARACTER_SELECT_SELECT_SURVIVOR" : "Choose wisely...",
+		"SURVIVOR_OVERVIEW": "The View",
+		"SURVIVOR_SKILLS": "Gamer Moves",
+		"SURVIVOR_LOADOUT": "Shopping Cart",
+		"CHARACTER_SELECT_READY": "Behold! My preparations have concluded! I am now sufficiently inclined to venture out and fight!",
+		"CHARACTER_SELECT_LOCKED_IN": "NO REFUNDS!",
 		
 		"LOADOUT_SKILL_PRIMARY": "Primary",
 		"LOADOUT_SKILL_SECONDARY": "Secondary",
@@ -18,7 +18,7 @@
 
 		"CHARACTER_DESCRIPTION_AND_UNLOCK_FORMAT" : "{0}\n\n{1}",
 
-		"RANDOM_VOTE_NAME" : "Randomize",
-		"RANDOM_VOTE_DESCRIPTION" : "Vote for random choices.",
+		"RANDOM_VOTE_NAME" : "Randumb",
+		"RANDOM_VOTE_DESCRIPTION" : "It's okay, I'll pick for you...",
 	}
 }

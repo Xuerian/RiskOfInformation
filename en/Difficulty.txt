@@ -1,16 +1,16 @@
 {
 	strings:
 	{
-	"DIFFICULTY_BAR_0": "Very Easy",
-	"DIFFICULTY_BAR_1": "Easy",
-	"DIFFICULTY_BAR_2": "Medium",
-	"DIFFICULTY_BAR_3": "Hard",
-	"DIFFICULTY_BAR_4": "Very Hard",
-	"DIFFICULTY_BAR_5": "Insane",
-	"DIFFICULTY_BAR_6": "Impossible",
-	"DIFFICULTY_BAR_7": "I SEE YOU",
-	"DIFFICULTY_BAR_8": "I'M COMING FOR YOU",
-	"DIFFICULTY_BAR_9": "HAHAHAHAHAHA",
+	"DIFFICULTY_BAR_0": "Super Babby Mode",
+	"DIFFICULTY_BAR_1": "EZ",
+	"DIFFICULTY_BAR_2": "Less EZ",
+	"DIFFICULTY_BAR_3": "Tingly",
+	"DIFFICULTY_BAR_4": "Brain Provoking",
+	"DIFFICULTY_BAR_5": "Rock Hard",
+	"DIFFICULTY_BAR_6": "Largely Painful",
+	"DIFFICULTY_BAR_7": "Y'all ready for this?",
+	"DIFFICULTY_BAR_8": "THE YEARS START COMIN'",
+	"DIFFICULTY_BAR_9": "<color=#FF0000>AND</color> <color=#FF6200>THEY</color> <color=#FFD900>DON'T</color> <color=#00FF37>STOP</color> <color=#0022FF>COM</color><color=#FF009D>IN'</color> ",
 	"STAGE_COUNT_FORMAT" : "<style=cSub>Stage\n</style> {0}",
 	}
 }

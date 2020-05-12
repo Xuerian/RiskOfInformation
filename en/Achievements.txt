@@ -20,16 +20,16 @@
 		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Carry 5 Lunar items in a single run.",
 
 		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_NAME": "Glorious Battle",
-		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Charge the Teleporter with less than 10% health.",
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Charge the Teleprompter with less than 10% health.",
 
 		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_NAME": "Ascendant",
-		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_DESCRIPTION": "Defeat the Teleporter bosses after activating 2 Shrines of the Mountain.",
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_DESCRIPTION": "Defeat the Teleprompter bosses after activating 2 Shrines of the Mountain.",
 
 		"ACHIEVEMENT_COMPLETETELEPORTER_NAME": "Advancement",
-		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Complete a Teleporter event.",
+		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Complete a Teleprompter event.",
 
 		"ACHIEVEMENT_COMPLETETHREESTAGES_NAME": "Warrior",
-		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION" : "Reach and complete the 3rd Teleporter event without dying.",
+		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION" : "Reach and complete the 3rd Teleprompter event without dying.",
 
 		"ACHIEVEMENT_DIE5TIMES_NAME": "Learning Process",
 		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "Die 5 times.",
@@ -41,7 +41,7 @@
 		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "Complete 20 stages in a single run.",
 
 		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "Deicide",
-		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "Defeat an Elite boss on Monsoon difficulty.",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "Defeat an Elite boss on Ghost Pepper Enema difficulty.",
 
 		"ACHIEVEMENT_KILLTOTALENEMIES_NAME": "Slaughter",
 		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "Defeat 3000 enemies.",
@@ -50,7 +50,7 @@
 		"ACHIEVEMENT_KILLELITEMONSTER_DESCRIPTION": "Defeat an Elite-type monster.",
 
 		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_NAME": "Verified",
-		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_DESCRIPTION": "Complete the first Teleporter event 5 times.",
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_DESCRIPTION": "Complete the first Teleprompter event 5 times.",
 
 		"ACHIEVEMENT_MAXHEALINGSHRINE_NAME": "One with the Woods",
 		"ACHIEVEMENT_MAXHEALINGSHRINE_DESCRIPTION": "Fully upgrade a Shrine of the Woods.",
@@ -62,10 +62,10 @@
 		"ACHIEVEMENT_TOTALMONEYCOLLECTED_DESCRIPTION": "Collect $30,480 total gold.",
 
 		"ACHIEVEMENT_FINDTIMEDCHEST_NAME": "[REDACTED]",
-		"ACHIEVEMENT_FINDTIMEDCHEST_DESCRIPTION": "Open the Timed Security Chest on Rallypoint Delta.",
+		"ACHIEVEMENT_FINDTIMEDCHEST_DESCRIPTION": "Open the Timed Security Lootbox on Snowdin.",
 
 		"ACHIEVEMENT_SUICIDEHERMITCRABS_NAME": "The Demons And The Crabs",
-		"ACHIEVEMENT_SUICIDEHERMITCRABS_DESCRIPTION": "Kill 20 Hermit Crabs by chasing them off the edge of the map.",
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_DESCRIPTION": "Kill 20 Douglasses by chasing them off the edge of the map.",
 		
 		"ACHIEVEMENT_MAJORMULTIKILL_NAME": "Multikill!",
 		"ACHIEVEMENT_MAJORMULTIKILL_DESCRIPTION": "Kill 15 enemies simultaneously.",
@@ -74,7 +74,7 @@
 		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_DESCRIPTION": "Complete a Prismatic Trial.",
 
 		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_NAME": "Death Do Us Part",
-		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_DESCRIPTION": "Discover the hidden chamber in the Abandoned Aqueduct.",
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_DESCRIPTION": "Discover the hidden chamber in the Sandy Shoals.",
 
 		"ACHIEVEMENT_FREEMAGE_NAME": "Pause.",
 		"ACHIEVEMENT_FREEMAGE_DESCRIPTION": "Free the survivor suspended in time.",
@@ -86,7 +86,7 @@
 		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_DESCRIPTION" : "Obliterate yourself at the Obelisk..",
 
 		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_NAME" : "Flawless",
-		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_DESCRIPTION" : "Fully charge a Teleporter without getting hit.",
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_DESCRIPTION" : "Fully charge a Teleprompter without getting hit.",
 
 		"ACHIEVEMENT_MOVESPEED_NAME" : "Going Fast Recommended",
 		"ACHIEVEMENT_MOVESPEED_DESCRIPTION" : "Reach +300% movespeed (includes sprinting).",
@@ -104,10 +104,10 @@
 		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_DESCRIPTION" : "Duplicate the same item 7 times in a row with a 3D Printer.",
 
 		"ACHIEVEMENT_KILLBOSSQUICK_NAME" : "Keyed Up",
-		"ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION" : "Defeat the Teleporter boss under 15 seconds.",
+		"ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION" : "Defeat the Teleprompter boss under 15 seconds.",
 
 		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_NAME" : "Naturopath",
-		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION" : "Without healing, reach and complete the 3rd Teleporter event.",
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION" : "Without healing, reach and complete the 3rd Teleprompter event.",
 
 		"ACHIEVEMENT_FINDDEVILALTAR_NAME": "Her Concepts",
 		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Find the Altar to N'kuhana.",
@@ -119,7 +119,7 @@
 		"ACHIEVEMENT_COMPLETE30STAGESCAREER_DESCRIPTION": "Complete 30 stages.",
 		
 		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_NAME": "Blackout",
-		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Defeat the unique guardian of Gilded Coast without any beacons deactivating.",
+		"ACHIEVEMENT_KILLGOLDTITANINONECYCLE_DESCRIPTION": "Defeat the unique guardian of GOLD BOI's Bachelor Pad without any beacons deactivating.",
 		
 		"ACHIEVEMENT_KILLELITESMILESTONE_NAME": "Cut Down",
 		"ACHIEVEMENT_KILLELITESMILESTONE_DESCRIPTION": "Defeat 500 elite monsters.",
@@ -149,7 +149,7 @@
 		"ACHIEVEMENT_MERCCOMPLETETRIALWITHFULLHEALTH_DESCRIPTION": "As Mercenary, complete a Prismatic Trial without falling below 100% health.",
 		
 		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_NAME": "Huntress: Piercing Wind",
-		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_DESCRIPTION": "As Huntress, start and finish either Rallypoint Delta or Scorched Acres without falling below 100% health.",
+		"ACHIEVEMENT_HUNTRESSMAINTAINFULLHEALTHONFROZENWALL_DESCRIPTION": "As Huntress, start and finish either Snowdin or Aesthetic Archipelago without falling below 100% health.",
 		
 		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_NAME": "Huntress: One Shot, One Kill",
 		"ACHIEVEMENT_HUNTRESSCOLLECTCROWBARS_DESCRIPTION": "As Huntress, collect and carry 12 Crowbars at once.",
@@ -176,46 +176,46 @@
 		"ACHIEVEMENT_ENGIKILLBOSSQUICK_DESCRIPTION": "As Engineer, defeat the teleporter boss in less than 5 seconds after it spawns.",
 		
 		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_NAME": "REX: Dunked",
-		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "As REX, kill a Clay Dunestrider on Abandoned Aqueduct by throwing it into a pit.",
+		"ACHIEVEMENT_TREEBOTDUNKCLAYBOSS_DESCRIPTION": "As REX, kill a Clay Dunestrider on Sandy Shoals by throwing it into a pit.",
 		
 		"ACHIEVEMENT_LOADERSPEEDRUN_NAME": "Loader: Swing By",
-		"ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "As Loader, reach and proceed through the Celestial Portal in 25 minutes or less.",
+		"ACHIEVEMENT_LOADERSPEEDRUN_DESCRIPTION": "As Loader, reach and Proceed through the Celestial Portal in 25 minutes or less.",
 		
 		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_NAME": "Commando: Incorruptible",
 		"ACHIEVEMENT_COMMANDONONLUNARENDURANCE_DESCRIPTION": "As Commando, clear 20 stages in a single run without picking up any Lunar items.",
 		
 		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_NAME": "Commando: Mastery",
-		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "As Commando, Obliterate yourself at the Obelisk on Monsoon.",
+		"ACHIEVEMENT_COMMANDOCLEARGAMEMONSOON_DESCRIPTION": "As Commando, Obliterate yourself at the Obelisk on Ghost Pepper Enema.",
 
 		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_NAME": "MUL-T: Mastery",
-		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "As MUL-T, Obliterate yourself at the Obelisk on Monsoon.",
+		"ACHIEVEMENT_TOOLBOTCLEARGAMEMONSOON_DESCRIPTION": "As MUL-T, Obliterate yourself at the Obelisk on Ghost Pepper Enema.",
 
 		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_NAME": "Huntress: Mastery",
-		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "As Huntress, Obliterate yourself at the Obelisk on Monsoon.",
+		"ACHIEVEMENT_HUNTRESSCLEARGAMEMONSOON_DESCRIPTION": "As Huntress, Obliterate yourself at the Obelisk on Ghost Pepper Enema.",
 
 		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_NAME": "Artificer: Mastery",
-		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "As Artificer, Obliterate yourself at the Obelisk on Monsoon.",
+		"ACHIEVEMENT_MAGECLEARGAMEMONSOON_DESCRIPTION": "As Artificer, Obliterate yourself at the Obelisk on Ghost Pepper Enema.",
 
 		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_NAME": "Mercenary: Mastery",
-		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "As Mercenary, Obliterate yourself at the Obelisk on Monsoon.",
+		"ACHIEVEMENT_MERCCLEARGAMEMONSOON_DESCRIPTION": "As Mercenary, Obliterate yourself at the Obelisk on Ghost Pepper Enema.",
 
 		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_NAME": "REX: Mastery",
-		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "As REX, Obliterate yourself at the Obelisk on Monsoon.",
+		"ACHIEVEMENT_TREEBOTCLEARGAMEMONSOON_DESCRIPTION": "As REX, Obliterate yourself at the Obelisk on Ghost Pepper Enema.",
 
 		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_NAME": "Loader: Mastery",
-		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "As Loader, Obliterate yourself at the Obelisk on Monsoon.",
+		"ACHIEVEMENT_LOADERCLEARGAMEMONSOON_DESCRIPTION": "As Loader, Obliterate yourself at the Obelisk on Ghost Pepper Enema.",
 
 		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_NAME": "Acrid: Mastery",
-		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "As Acrid, Obliterate yourself at the Obelisk on Monsoon.",
+		"ACHIEVEMENT_CROCOCLEARGAMEMONSOON_DESCRIPTION": "As Acrid, Obliterate yourself at the Obelisk on Ghost Pepper Enema.",
 
 		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_NAME": "Engineer: Mastery",
-		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_DESCRIPTION": "As Engineer, Obliterate yourself at the Obelisk on Monsoon.",
+		"ACHIEVEMENT_ENGICLEARGAMEMONSOON_DESCRIPTION": "As Engineer, Obliterate yourself at the Obelisk on Ghost Pepper Enema.",
 
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_NAME": "Blockade Breaker",
 		"ACHIEVEMENT_KILLBOSSQUANTITYINRUN_DESCRIPTION": "Kill 15 boss monsters in a single run.",
 		
 		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_NAME": "Guidance Offline",
-		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_DESCRIPTION": "Defeat the unique guardian of Siren's Call.",
+		"ACHIEVEMENT_DEFEATSUPERROBOBALLBOSS_DESCRIPTION": "Defeat the unique guardian of Rain Rain Go Away.",
 		
 		"ACHIEVEMENT_BEATARENA_NAME": "...To Be Left Alone",
 		"ACHIEVEMENT_BEATARENA_DESCRIPTION": "Stabilize the Cell in the Void Fields.",
@@ -230,7 +230,7 @@
 		"ACHIEVEMENT_AUTOMATIONACTIVATION_DESCRIPTION": "Activate 6 turrets in a single run.",
 
 		"ACHIEVEMENT_CLEANUPDUTY_NAME": "Cleanup Duty",
-		"ACHIEVEMENT_CLEANUPDUTY_DESCRIPTION": "Destroy 20 flying rocks in Sky Meadow.",
+		"ACHIEVEMENT_CLEANUPDUTY_DESCRIPTION": "Destroy 20 flying rocks in Cheddar Bay.",
 
 		"ACHIEVEMENT_NEVERBACKDOWN_NAME": "Never Back Down",
 		"ACHIEVEMENT_NEVERBACKDOWN_DESCRIPTION": "In 4 consecutive stages don\u2019t leave the teleporter radius until it is fully charged.",

@@ -67,7 +67,7 @@
 
 		//[GRAPHICS]
 		"OPTION_SHADOW_TYPE": "Shadow Type:",
-		"OPTION_SHADOW_TYPE_DESCRIPTION": "This determines which type of shadows should be used. Soft shadows are smoother, but require more processing power. Disabling shadows will dramatically improve performance.",
+		"OPTION_SHADOW_TYPE_DESCRIPTION": "This determines which type of shadows should be used. Soft shadows are smoother, but require more Processing power. Disabling shadows will dramatically improve performance.",
 		"OPTION_SHADOW_TYPE_OFF": "Off",
 		"OPTION_SHADOW_TYPE_HARDONLY": "Hard",
 		"OPTION_SHADOW_TYPE_ALL": "Soft",
@@ -89,7 +89,7 @@
 		"OPTION_TEXTURE_RESOLUTION_EIGHTH": "Eighth",
 
 		"OPTION_ANISOTROPIC_FILTERING": "Anisotropic Filtering:",
-		"OPTION_ANISOTROPIC_FILTERING_DESCRIPTION": "Improves the sharpness of textures viewed at an angle. Lowering this will increase GPU performance.",
+		"OPTION_ANISOTROPIC_FILTERING_DESCRIPTION": "Fuckerroves the sharpness of textures viewed at an angle. Lowering this will increase GPU performance.",
 
 		"OPTION_VFX_BIAS": "VFX Culling Bias:",
 		"OPTION_VFX_BIAS_DESCRIPTION": "Adds a chance to remove particles and other VFX in high effect densities. Lowering this will improve both CPU and GPU performance, but effects may stop appearing.",

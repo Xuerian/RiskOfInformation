@@ -1,16 +1,16 @@
 {
 	"strings":
 	{
-		"OBJECTIVE_TITLE" : "Objective:",
-		"OBJECTIVE_FIND_TELEPORTER": "Find and activate the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
-		"OBJECTIVE_CHARGE_TELEPORTER": "Charge the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> ({0}%)",
-		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "Enter the <style=cDeath>Teleporter zone!</style> ({0}%)",
-		"OBJECTIVE_FINISH_TELEPORTER": "Proceed through the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
-		"OBJECTIVE_DEFEAT_BOSS": "Defeat the boss!",
-		"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS" :  "Rebuild the Halcyon Beacons({0}/{1})",
-		"OBJECTIVE_GOLDSHORES_DEFEAT_BOSS" :  "Defeat {0},{1}",
-		"OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS" : "Destroy <color=#f37aff>Time Crystals</color> ({0}/{1})",
-		"OBJECTIVE_CLEAR_ARENA" : "Activate all Cell Vents ({0}/{1})",
-		"OBJECTIVE_ARENA_CHARGE_CELL" : "Breach the Cell ({0}%)",
+		"OBJECTIVE_TITLE" : "To Do:",
+		"OBJECTIVE_FIND_TELEPORTER": "Find the<style=cDeath>Teleprompter <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_CHARGE_TELEPORTER": "Charge the <style=cDeath>Teleprompter <sprite name=\"TP\" tint=1></style> ({0}%)",
+		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "Get ur fuckin' ass back near the <style=cDeath>Teleprompter</style>! ({0}%)",
+		"OBJECTIVE_FINISH_TELEPORTER": "Touch the <style=cDeath>Teleprompter <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_DEFEAT_BOSS": "Get that motherfucker!",
+		"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS" :  "Spend money on the GOLD BOI Bacons({0}/{1})",
+		"OBJECTIVE_GOLDSHORES_DEFEAT_BOSS" :  "Make friends with {0},{1}",
+		"OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS" : "Destroy <color=#f37aff>Thyme Things</color> ({0}/{1})",
+		"OBJECTIVE_CLEAR_ARENA" : "Stimulate all Void Nuts ({0}/{1})",
+		"OBJECTIVE_ARENA_CHARGE_CELL" : "Hug the bubble ({0}%)",
 	}
 }
