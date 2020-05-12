@@ -2,10 +2,10 @@
 	"strings":
 	{
 		"ARTIFACT_GLASS_NAME": "Artifact of Glass",
-		"ARTIFACT_GLASS_DESCRIPTION" : "Allies deal 500% damage, but have 10% health. Disables One Shot Protection.",
+		"ARTIFACT_GLASS_DESCRIPTION" : "Players and Allies deal 500% damage, but have 10% health. Disables One Shot Protection.",
 
 		"ARTIFACT_BOMB_NAME" : "Artifact of Spite",
-		"ARTIFACT_BOMB_DESCRIPTION" : "Enemies drop multiple exploding bombs on death. Bombs have a Proc Coefficient of 0.75, bounce twice, and detonate on the third bounce.",
+		"ARTIFACT_BOMB_DESCRIPTION" : "Enemies drop multiple exploding bombs on death. Bombs have a <color=#D47FFF>Proc Coefficient of 0.75</color>, bounce twice, and detonate on the third bounce.",
 
 		"ARTIFACT_ENIGMA_NAME" : "Artifact of Enigma",
 		"ARTIFACT_ENIGMA_DESCRIPTION" : "Spawn with a random equipment that changes every time it's activated.",
@@ -17,13 +17,13 @@
 		"ARTIFACT_SPIRIT_DESCRIPTION" : "All characters move faster at lower health.",
 
 		"ARTIFACT_RANDOMSURVIVORONRESPAWN_NAME": "Artifact of Metamorphosis",
-		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Players always spawn as a random survivor each stage.",
+		"ARTIFACT_RANDOMSURVIVORONRESPAWN_DESCRIPTION": "Players will spawn as a random survivor on each stage.",
 		
 		"ARTIFACT_WEAKASSKNEES_NAME": "Artifact of Frailty",
 		"ARTIFACT_WEAKASSKNEES_DESCRIPTION": "Fall damage is doubled and lethal.",
 		
 		"ARTIFACT_WISPONDEATH_NAME": "Artifact of Soul",
-		"ARTIFACT_WISPONDEATH_DESCRIPTION": "Wisps emerge from defeated monsters. Spawned Wisps do not grant gold or xp.",
+		"ARTIFACT_WISPONDEATH_DESCRIPTION": "Wisps emerge from defeated monsters. Spawned Wisps do not grant gold or XP.",
 		
 		"ARTIFACT_ELITEONLY_NAME": "Artifact of Honor",
 		"ARTIFACT_ELITEONLY_DESCRIPTION": "Enemies can only spawn as elites.",
